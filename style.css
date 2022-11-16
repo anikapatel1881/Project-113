@@ -1,0 +1,9 @@
+h3 {
+    font-size: 25px !important;
+}
+canvas {
+    border:1px solid black;
+}
+body {
+    background: linear-gradient(rgb(255, 0, 140), orange, yellow);
+}
